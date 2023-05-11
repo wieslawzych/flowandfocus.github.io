@@ -13,3 +13,6 @@ We intend to impart what We've learnt to you through this blog, as well as to pr
 My method is based on the conviction that genuine healing originates from within and a profound respect for the body's intrinsic understanding. Although I don't profess to have all the answers, I'm dedicated to learning about these practises with an open mind and heart and to sharing what I discover.
 
 So I ask you to come along on this trip with me if you want to build more flow and focus in your life as well as a deeper connection to both yourself and the world around you. Let's discuss what it means to lead a balanced, centred, and grounded existence.
+
+Contact us here: [hello@flowandfocus.co.uk](mailto:hello@flowandfocus.co.uk)
+

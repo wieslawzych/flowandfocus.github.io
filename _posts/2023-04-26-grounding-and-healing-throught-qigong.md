@@ -1,13 +1,16 @@
 ---
 layout: post
-title: Gournding and somatic healing throught Qigong
+title: Grounding and healing through Qigong
 subtitle: 
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/post1/path.jpg
 thumbnail-img: /assets/img/post1/thumb.jpg
-share-img: /assets/img/path.jpg
+share-img: /assets/img/post1/path.jpg
 tags: [qigong, grounding]
 ---
-## Introduction: What is Qigong and How Does it Work?
+### Introduction: What is Qigong and How Does it Work?
+Qigong (气功)(qì - steam, vapor, breath,spirit gōng - achievement, merit, good result) is a system of coordinated 
+movement
+
 ## The Importance of Grounding for Healing
 ## Understanding the Qi: How Qigong Helps Move Energy
 ## Qigong Practices for Grounding and Healing

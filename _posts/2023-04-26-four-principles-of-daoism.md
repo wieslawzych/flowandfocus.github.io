@@ -7,7 +7,7 @@ excerpt: Find out what Daoism is all about and examine its four cornerstone prin
 cover-img: /assets/img/post1/path.jpg
 thumbnail-img: /assets/img/post1/thumb.jpg
 share-img: /assets/img/post1/path.jpg
-tags: [qigong, grounding]
+tags: [daoism, basics]
 ---
 
 

@@ -7,7 +7,7 @@ excerpt: Learn all about the origins of tea in East Asia, the legends of the Div
 cover-img: /assets/img/post1/path.jpg
 thumbnail-img: /assets/img/post1/thumb.jpg
 share-img: /assets/img/post1/path.jpg
-tags: [tea, basics]
+tags: [tea, history]
 ---
 
 

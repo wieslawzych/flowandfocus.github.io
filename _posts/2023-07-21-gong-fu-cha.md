@@ -7,7 +7,7 @@ excerpt: Gong Fu cha essential guide. Easy and straightforward explanation of Go
 cover-img: /assets/img/gongfu/feat.jpg
 thumbnail-img: /assets/img/gongfu/feat.jpg
 share-img: /assets/img/post1/feat.jpg
-tags: [tea, basics]
+tags: [tea, brewing]
 ---
 <!-- wp:paragraph -->
 <p>You probably landed here because you wonder what Gong Fu Cha brewing style is or you're want to start your journey on high quality tea miracle discovery.</p>

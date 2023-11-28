@@ -1,18 +1,28 @@
 ---
 layout: page
 title: About us
-subtitle: Discover the transformative power of Qigong
+subtitle: Welcome to the beautiful world of quality tea.
 ---
 
-Welcome to Flow And Focus, a blog devoted to explore the transformative potential of Qigong, grounding and Daoism. In order to live a more centred and peaceful life, we want to assist you in developing a stronger bond with nature, yourself, and your surroundings.
+Come with us on an adventure of discovery that a good cup of properly brewed tea can send you on.
 
-Here, you can witness directly the significant advantages that these techniques can have. Qigong and grounding can assist you in navigating the obstacles of life with greater ease and grace. These benefits range from enhanced energy and vitality to improved mental clarity and emotional resilience.
+Discover the world of **Gong Fu brewing** and **Cha Dao** and once you brew quality loose leaf tea this way you will never go back to using tea bags again.
 
-We intend to impart what We've learnt to you through this blog, as well as to provide advice and inspiration for your own grounding and healing path. There is something here for everyone, whether you are an experienced practitioner or brand-new to these practises. I'll be discussing Daoist wisdom, Qigong exercises, mindfulness techniques, and helpful hints for incorporating these practises into your everyday life.
+Depending on what you need, tea can make you calm or give you all the caffeine and replace your morning cup of tea.
 
-My method is based on the conviction that genuine healing originates from within and a profound respect for the body's intrinsic understanding. Although I don't profess to have all the answers, I'm dedicated to learning about these practises with an open mind and heart and to sharing what I discover.
+You just need to learn how to use it. It's not hard and all-natural; just let tea guide you along and we guarantee you will end up on a **lifetime journey** of self-discovery and **mindfulness**.
 
-So I ask you to come along on this trip with me if you want to build more flow and focus in your life as well as a deeper connection to both yourself and the world around you. Let's discuss what it means to lead a balanced, centred, and grounded existence.
+Although this brew might feel like the simplest thing, in fact, you only need **leaf**, **water**, and a **cup**. There is so much more to this.
 
-Contact us here: [hello@flowandfocus.co.uk](mailto:hello@flowandfocus.co.uk)
+You will end up surprised with the amount of different brews, amount of **experiences**, smells, and **amazing tasting sessions** you will end up with. So stick around and learn all about the world of quality loose leaf tea.
 
+The way of tea can even be your philosophy and way of life as tea can teach you many useful lessons. You can look into Cha Dao for answers.
+
+It can be as formal or as informal as you like; that's the beauty of drinking tea. It's great for grounding and meditation or, on the other hand, your Matcha shots can replace your coffee with their caffeine content. It is totally up to you to create your own story and relationship with this robust and useful leaf.
+
+> "Drink your tea slowly and reverently, as if it is the axis on which the world earth revolves – slowly, evenly, without rushing toward the future. Live the actual moment. Only this moment is life."  
+> ~ Thich Nhat Hanh
+
+So if you are ready, hop right into our [blog](https://almondmill-com.stackstaging.com) section to find out more.
+
+Any questions, visit the contact page or email [hello@flowandfocus.co.uk](mailto:hello@flowandfocus.co.uk).

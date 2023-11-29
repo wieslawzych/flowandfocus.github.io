@@ -41,7 +41,7 @@ tags: [tea, history]
 
 <h2 class="wp-block-heading">The Divine Farmer</h2>
 
-<p>There are two popular legends on the origins of tea that we are going to look at first one concerns  <strong><a href="https://en.wikipedia.org/wiki/Shennong">Shennong</a></strong>&nbsp;(??) translated as <strong>Divine Farmer was a legendary Chinese ruler</strong> that is said to teach the Chinese people agriculture and herbal medicine. He is credited with investing a how and a bunch of other things you would a divine farmer to invent. </p>
+<p>There are two popular legends on the origins of tea that we are going to look at first one concerns  <strong><a href="https://en.wikipedia.org/wiki/Shennong">Shennong</a></strong>&nbsp;translated as <strong>Divine Farmer was a legendary Chinese ruler</strong> that is said to teach the Chinese people agriculture and herbal medicine. He is credited with investing a how and a bunch of other things you would a divine farmer to invent. </p>
 <div class="figcaption">
 
 <figure class=""><img src="/assets/img/post1/2.jpg" alt="Shennong as depicted in a 1503 painting

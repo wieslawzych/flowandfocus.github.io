@@ -80,24 +80,7 @@ hr.small {
   display: none;
 }
 
-::-moz-selection {
-  color: #fff;
-  text-shadow: none;
-  background-color: #009cff;
-}
-::selection {
-  color: #fff;
-  text-shadow: none;
-  background-color: #009cff;
-}
-img::selection {
-  color: #fff;
-  background: transparent;
-}
-img::-moz-selection {
-  color: #fff;
-  background: transparent;
-}
+
 
 img {
   max-width: 100%;

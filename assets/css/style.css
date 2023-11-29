@@ -87,6 +87,7 @@ height: 44vh;
   max-width: 740px;
   position: relative;
     top: -80px;
+    box-shadow: 0 3px 5px 0 rgba(0, 1, 1, .1);
 }
 
 @media (max-width: 799px) {

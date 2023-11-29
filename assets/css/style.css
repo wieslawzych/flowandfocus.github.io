@@ -169,7 +169,7 @@ blockquote {
 }
 
 .logo-text{
-    top: 1px;
+    top: 3px;
     position: relative;
     left: 10px;
 }
@@ -180,3 +180,8 @@ blockquote {
 .navbar-toggler-icon{background-image:none!important;}
 
 .previous{padding:15px;}
+
+.navbar-toggler-icon{
+    position: relative;
+    top: 5px;
+  }

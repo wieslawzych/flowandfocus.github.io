@@ -20,6 +20,7 @@ author: Flow and Focus
 ###############################################
 
 navbar-links:
+  Blog: /
   About: aboutus
   Resources:
     - Dao De Jing: "https://terebess.hu/english/tao/gia.html"
@@ -39,7 +40,7 @@ round-avatar: true
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
 #title-img: /path/to/image
-
+title-img: "/assets/img/avatar-icon.png"
 
 #####################################
 # --- Footer social media links --- #
@@ -81,7 +82,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # Add a search button to the navbar
-post_search: true
+post_search: false
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
 edit_page_button: true
@@ -100,17 +101,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-col: "#ffffff"
+navbar-text-col: "#111111"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
+link-col: "#009cff"
+hover-col: "#009cff"
+footer-col: "#111111"
+footer-text-col: "#5e5e5e"
 footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+footer-hover-col: "#009cff"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour

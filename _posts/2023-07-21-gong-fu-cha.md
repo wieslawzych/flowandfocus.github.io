@@ -209,20 +209,11 @@ tags: [tea, brewing]
 
 <!-- wp:heading {"fontSize":"large"} -->
 <h2 class="wp-block-heading has-large-font-size">Tea Pet</h2>
-<!-- /wp:heading -->
 
-<!-- wp:paragraph -->
 <p>A vibe, you can pour tea rinse on them and they will keep you company when you brew tea.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:heading -->
 <h2 class="wp-block-heading">Get Gong Fu brewing today</h2>
-<!-- /wp:heading -->
 
-<!-- wp:paragraph -->
 <p>Hopefully you find it as easy and natural as I did. Now find your self some quality leaves and get brewing the Gong Fu way. Let tea guide you on this lifetime journey to discovery. Quality tea can change your life, help you ground, relax and be more mindful.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p></p>
-<!-- /wp:paragraph -->

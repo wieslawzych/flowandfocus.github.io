@@ -2,6 +2,9 @@
 layout: page
 title: About us
 subtitle: Welcome to the beautiful world of quality tea.
+cover-img: /assets/img/pot.jpg
+thumbnail-img: /assets/img/pot.jpg
+share-img: /assets/img/pot.jpg
 ---
 
 Come with us on an adventure of discovery that a good cup of properly brewed tea can send you on.

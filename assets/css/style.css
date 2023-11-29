@@ -1,0 +1,172 @@
+@font-face {
+  font-family: 'Cabin';
+  src: url('/assets/fonts/Cabin-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'CabinBold';
+  src: url('/assets/fonts/Cabin-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  src: url('/assets/fonts/Lato-Bold.ttf') format('truetype');
+}
+body {
+    background-color: #f3f3f3;
+      color: #5e5e5e;
+      font-family: 'Cabin';
+      font-weight: 400;
+      font-size: 16px;
+  }
+.post-meta{
+    color: #5e5e5e;
+    font-size: 14px;
+    padding:10px,
+}
+.meta{
+  padding-bottom: 25px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+blockquote,
+thead td,
+.comment-author b,
+q:before,
+#bbpress-forums .bbp-forum-title,
+#bbpress-forums .bbp-topic-permalink {
+  color: #111111;
+  font-family: 'Lato';
+  font-weight: 700;
+}
+
+
+.navbar-custom {
+  background-color: rgb(255, 255, 255);
+  border-bottom: 1px solid #DDDDDD;
+  font-family: 'CabinBold',  sans-serif;
+  -webkit-transition: padding .5s ease-in-out;
+  -moz-transition: padding .5s ease-in-out;
+  transition: padding .5s ease-in-out;
+}
+.figcaption {
+  position: relative;
+}
+
+.figcaption figcaption {
+  position: absolute;
+  bottom: 1px;
+  background: rgba(0, 0, 0, .6);
+  color: rgba(255, 255, 255, .8);
+  font-size: 12px;
+  padding: 5px 10px;
+  margin: 0;
+  z-index: 10;
+  width: 100%;
+  text-align: center;
+}
+figure img{
+width:100%;
+
+}
+.big-img{
+height: 44vh;
+}
+
+
+.gridbox{
+  background: #ffffff;
+  max-width: 740px;
+  position: relative;
+    top: -80px;
+}
+
+@media (max-width: 799px) {
+.gridbox {
+
+  max-width: 90%;
+}
+}
+
+.pagination .page-item.next {
+  margin-left: auto;
+  padding: 15px;
+}
+
+.tag{
+  display: inline-block;
+  height: auto;
+  font-size: 10px;
+  line-height: 10px;
+  padding: 7px 11px 6px;
+  vertical-align: top;
+  transition: all .2s ease-in-out;
+  border-radius: 20px;
+  margin-right: 5px;
+  -webkit-transition: all .2s ease-in-out;
+  pointer-events: auto;
+  text-transform: uppercase;
+  color: #FFF;
+  background-color: #009cff;
+}
+
+footer {
+  padding: 1.875rem 0;
+  border-top: 1px #EAEAEA solid;
+  margin-top: 3.125rem;
+  color: #ffffff;
+  font-size: 0.875rem;
+  background-color: #111111;
+}
+footer a {
+color: #ffffff;
+
+}
+
+footer a:hover,
+footer a:focus {
+color: #ffffff;
+}
+
+blockquote:before {
+  color: rgba(17, 17, 17, 0.15);
+}
+
+blockquote:before,
+q:before {
+  content: "”";
+  font-size: 72px;
+  position: absolute;
+  top: -2px px;
+  left: 6px;
+  font-weight: 900;
+  line-height: 72px;
+}
+
+blockquote {
+  border-left: 0;
+  padding-left: 50px;
+}
+.excerpt{
+  padding-top:10px;
+  padding-bottom: 10px;
+}
+
+.logo-text{
+    top: 1px;
+    position: relative;
+    left: 10px;
+}
+
+.navbar-light .navbar-toggler {
+  border: none;
+}
+.navbar-toggler-icon{background-image:none!important;}

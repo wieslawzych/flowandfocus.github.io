@@ -451,9 +451,7 @@ footer .footer-custom-content {
 .post-heading .post-meta .middot {
   margin: 0 0.625rem;
 }
-.post-preview .post-entry {
-  width: 100%;
-}
+
 .post-preview .post-image {
   float: right;
   margin-left: 0.625rem;
@@ -490,7 +488,8 @@ footer .footer-custom-content {
 
 .post-preview .post-read-more {
   font-weight: 800;
-  float: right;
+  position: relative;
+  top: 10px;
 }
 
 @media (min-width: 768px) {

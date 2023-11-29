@@ -3,7 +3,7 @@ layout: post
 title: Gong Fu Cha
 subtitle: 
 description: Gong Fu cha essential guide. Easy and straightforward explanation of Gong Fu with pictures. Start your tea journey today.
-excerpt: Gong Fu cha essential guide. Easy and straightforward explanation of Gong Fu with pictures. Start your tea journey today.
+excerpt: You probably landed here because you wonder what Gong Fu Cha brewing style is or you're want to start your journey on high quality tea discovery.
 cover-img: /assets/img/gongfu/feat.jpg
 thumbnail-img: /assets/img/gongfu/feat.jpg
 share-img: /assets/img/post1/feat.jpg

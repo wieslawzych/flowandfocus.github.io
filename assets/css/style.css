@@ -97,11 +97,18 @@ filter: brightness(80%);
 }
 }
 
-.pagination .page-item.next {
+.pagination .page-item.page-link {
   margin-left: auto;
   padding: 15px;
+  border-radius: 50px;
 }
-
+.pagination{
+  margin-bottom: 30px;
+}
+.tag-btn {
+  border-radius: 50px;
+  margin-top:20px;
+}
 .tag{
   display: inline-block;
   height: auto;

@@ -483,6 +483,7 @@ footer .footer-custom-content {
   }
   .post-preview .post-image-small {
     display: block;
+    padding-bottom: 12px;
   }
 }
 

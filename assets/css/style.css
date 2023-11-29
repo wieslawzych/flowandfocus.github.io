@@ -22,9 +22,7 @@ body {
     font-size: 14px;
     padding:10px,
 }
-.meta{
-  padding-bottom: 25px;
-}
+
 h1,
 h2,
 h3,
@@ -79,6 +77,8 @@ width:100%;
 }
 .big-img{
 height: 44vh;
+box-shadow: 0 0 20px rgba(0, 0, 0, .15);
+filter: brightness(80%);
 }
 
 
